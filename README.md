@@ -111,19 +111,4 @@ A full-stack **Expense Tracker** application built with **FastAPI** (Python) for
 -   pydantic
 -   aiofiles
 
-Install using:
 
-```bash
-pip install -r requirements.txt
-📦 Run Commands Summary# Backend
-cd backend
-python -m venv venv
-# For Windows:
-venv\Scripts\activate
-# For macOS/Linux:
-source venv/bin/activate
-pip install -r requirements.txt
-uvicorn main:app --reload
-
-# Frontend
-cd frontend
