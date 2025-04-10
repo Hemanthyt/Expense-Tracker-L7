@@ -14,9 +14,8 @@ A full-stack **Expense Tracker** application built with **FastAPI** (Python) for
 
 ---
 
-## 🏗️ Folder Structure
 
-expense-tracker-app/├── backend/│   ├── main.py│   ├── database.py│   ├── models.py│   ├── routes/│   └── requirements.txt├── frontend/│   ├── src/│   │   ├── components/│   │   ├── pages/│   │   └── App.jsx│   ├── public/│   └── package.json└── README.md
+
 ---
 
 ## ⚙️ Installation & Setup Guide
@@ -60,7 +59,7 @@ expense-tracker-app/├── backend/│   ├── main.py│   ├── dat
 1.  Open a new terminal and navigate to frontend folder:
 
     ```bash
-    cd frontend
+    cd Expense-Tracer-FrontEnd
     ```
 
 2.  Install dependencies:
